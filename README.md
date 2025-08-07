@@ -14,5 +14,6 @@ offline_jarvis_ai/
 └── resources/
     └── sample_music.mp3
 THE USER NEEDS TO FOLLOW EXECT PATH TO CREATE IT.
+it has small errors please push comment if you are able to solve that 
 
 
